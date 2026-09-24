@@ -1,0 +1,6 @@
+{
+  "name": "SI-PERIANG Puskesmas Wairiang",
+  "description": "Sistem Integrasi Pelaporan Puskesmas Wairiang (SI-PERIANG) untuk input, verifikasi, dan unduh laporan per bidang dan program.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
